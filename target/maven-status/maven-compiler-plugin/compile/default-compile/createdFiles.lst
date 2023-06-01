@@ -1,0 +1,13 @@
+com\company\filters\userAgentFilter.class
+com\company\servlets\LogoutServlet.class
+com\mycompany\forum\resources\JavaEE8Resource.class
+com\company\servlets\RegisterServlet.class
+com\company\servlets\ResponseServlet.class
+com\company\servlets\RemoveResponseServlet.class
+com\company\servlets\PostServlet.class
+com\company\filters\LoginFilter.class
+com\company\servlets\RemovePostServlet.class
+com\company\servlets\LoginServlet.class
+com\company\servlets\EditPostServlet.class
+com\mycompany\forum\JAXRSConfiguration.class
+com\company\servlets\EditResponseServlet.class
