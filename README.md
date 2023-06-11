@@ -29,7 +29,7 @@
     Co jest wymagane do uruchomienia aplikacji:</h1>
     MySql database, Java 8, Tomcat 5, Netbeans
   </li>
-  <h1><li>Jak uruchomić aplikacj``:</h1>
+  <h1><li>Jak uruchomić aplikację:</h1>
     <ol type="1">
       <li>Pobierz projekt komendą git clone a potem zaimportuj projekt do netbeans</li>
       <li>Wymień wszystkie dane połączenia z bazą danych w folderze :" /src/main/java/com/company
